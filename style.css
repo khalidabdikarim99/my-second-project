@@ -220,10 +220,11 @@ transition: .4s ease;
     text-align: center;
 }
 .About{
-    font-size: 18px;
+    font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
     text-align: center; 
-    margin: 30px;
+    margin: 20px;
+    background-color: cornsilk;
 }
 .btn3{
     display: flex;
@@ -239,13 +240,13 @@ h4{
     color: blue;
 }
 h5{
-    color: chartreuse;
+    color: blue;
 }
 
 .jijo{
     
     text-align: center;
-    font-size: 18px;
+    font-size: 25px;
     
 
     
@@ -254,6 +255,7 @@ h5{
     background-color: black;
     color: #fff;
     height: 300px;
+    
 
 }
 
@@ -342,4 +344,9 @@ h5{
  }
  .sum{
     color: #ff7200;
+ }
+ .img{
+    font-size: xx-small;
+    display: flex;
+    block-size: 200%;
  }
